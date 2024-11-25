@@ -21,7 +21,7 @@ int main()
 
     for (int i = 0; i < lin; i++)
     {
-        for (int j = 0; j < col; i++)
+        for (int j = 0; j < col; j++)
         {
             scanf("%d", &matriz[i][j]);
         }
